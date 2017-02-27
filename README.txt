@@ -5,8 +5,9 @@ STEPS (UBUNTU):
 2. apt-get install jmagick
 3. sudo ln -s /usr/lib/jni/libJMagick.so /usr/lib/libJMagick.so
 
-STEPS (WINDOWS)
+STEPS (WINDOWS) works on 32 bit jdk
 ==========
+
 
 1. Go to http://downloads.jmagick.org/6.3.9/ (or any other version of your choice)
 2. Download ImageMagick-6.3.9-0-Q8-windows-dll.exe and jmagick-win-6.3.9-Q8.zip.

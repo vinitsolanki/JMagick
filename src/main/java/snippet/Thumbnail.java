@@ -23,6 +23,7 @@ public class Thumbnail {
 		image = image.scaleImage(50, 50); //to Scale image
 		image.setFileName(outputFile); //give new location
 		image.writeImage(origInfo); //save
+		System.out.println("file exported to " + outputFile);
 
 	}
 
